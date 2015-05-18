@@ -11,7 +11,7 @@ Welcome. WordPress is a very special project to me. Every developer and contribu
 
 # Install from GitHub
 
-1.  Log in to your GitHub account and navigate to [https://github.com/wordpress/wordpress]
+1.  Log in to your GitHub account and navigate to [https://github.com/wordpress/wordpress](https://github.com/wordpress/wordpress)
 2.  Fork it!!!
 3.  Clone it into your own github repo
 
