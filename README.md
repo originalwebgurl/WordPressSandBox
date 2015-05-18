@@ -9,6 +9,20 @@ Welcome. WordPress is a very special project to me. Every developer and contribu
 
 — Matt Mullenweg
 
+# Install from GitHub
+
+1.  Log in to your GitHub account and navigate to [https://github.com/wordpress/wordpress]
+2.  Fork it!!!
+3.  Clone it into your own github repo
+
+```
+cd path/to/your/webroot/folder 
+git clone git@github.com:originalwebgurl/WordPressSandBox.git 
+cd WordPressSandBox
+```
+
+4.  Jump to step 2 in the 5-minute install section
+
 # Installation: Famous 5-minute install
 
 1.  Unzip the package in an empty directory and upload everything.
